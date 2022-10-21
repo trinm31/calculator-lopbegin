@@ -1,0 +1,15 @@
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/bin/Debug/net5.0/Calculator-Lopbegin.deps.json
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/bin/Debug/net5.0/Calculator-Lopbegin.runtimeconfig.json
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/bin/Debug/net5.0/Calculator-Lopbegin.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/bin/Debug/net5.0/Calculator-Lopbegin.dll
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/bin/Debug/net5.0/ref/Calculator-Lopbegin.dll
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/bin/Debug/net5.0/Calculator-Lopbegin.pdb
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.dll
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/ref/Calculator-Lopbegin.dll
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.pdb
+/Users/tringuyen/RiderProjects/Calculator-Lopbegin/Calculator-Lopbegin/obj/Debug/net5.0/Calculator-Lopbegin.genruntimeconfig.cache
