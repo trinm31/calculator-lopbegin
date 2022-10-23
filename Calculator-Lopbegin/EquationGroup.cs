@@ -10,7 +10,7 @@ namespace Calculator_Lopbegin
         {
             Console.WriteLine("Equation pattern ax+b=0");
 
-            var inputList = GetInput(2);
+            var inputList = Utility.GetInput(2);
 
             var a = inputList[0];
             var b = inputList[1];
@@ -24,7 +24,7 @@ namespace Calculator_Lopbegin
         {
             Console.WriteLine("Equation pattern ax^2+bx+c=0");
 
-            var inputList = GetInput(3);
+            var inputList = Utility.GetInput(3);
 
             var a = inputList[0];
             var b = inputList[1];
@@ -57,29 +57,29 @@ namespace Calculator_Lopbegin
             }
         }
         
-        // 3.phương tình bậc 3
-        
-        // 4. Get Input
-        public List<double> GetInput(int degree)
+        public void SelectOptionToCalculate()
         {
-            var inputList = new List<double>();
-            for (int i = 0; i < degree; i++)
+            Console.WriteLine("----------option----------");
+            Console.WriteLine("Input 1 to equation degree 1");
+            Console.WriteLine("Input 2 to equation degree 2");
+
+            var input = Convert.ToInt32(Console.ReadLine());
+            switch (input)
             {
-                var input = "";
-                Console.WriteLine($"Let's input {i+1}: ");
-                input = Console.ReadLine();
-
-                double cleanInput = 0;
-                while (!double.TryParse(input, out cleanInput))
-                {
-                    Console.WriteLine("This is not valid input, please enter double number");
-                    input = Console.ReadLine();
-                }
-                
-                inputList.Add(cleanInput);
+                case 1:
+                    EquationOfDegreeOne();
+                    break;
+                case 2:
+                    EquationOfDegreeTwo();
+                    break;
+                default:
+                    Console.WriteLine("Invalid input - please input again");
+                    break;
             }
-
-            return inputList;
         }
+
+        // 3.phương tình bậc 3
+
+      
     }
 }
